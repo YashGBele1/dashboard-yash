@@ -8,7 +8,7 @@ function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Admin Dashboard | by Yash for WebMOBI</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <TopBar />
