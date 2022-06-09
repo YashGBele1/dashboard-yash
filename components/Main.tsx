@@ -2,7 +2,7 @@ function Main() {
     return (
         <div className='bg-gray-200 fixed top-20 left-20 right-20 h-full p-5'>
             <div className='flex items-center space-x-5 px-1'>
-            <button className="text-gray-500 font-semibold text-sm">Event Setting</button>
+                <button className="text-gray-500 font-semibold text-sm">Event Setting</button>
                 <div className="text-gray-500 font-bold text-xl">|</div>
                 <button className="text-gray-500 font-semibold text-sm">Engage and Network</button>
                 <div className="text-gray-500 font-bold text-xl">|</div>
@@ -25,7 +25,7 @@ function Main() {
                     <p className="px-5 py-3 text-gray-500 font-medium cursor-pointer">Branding</p>
                     <p className="px-5 py-3 text-gray-500 font-medium cursor-pointer">Agenda</p>
                     <p className="px-5 py-3 text-fuchsia-600 font-medium cursor-pointer bg-gray-200 border-l-4 border-fuchsia-600">Virtual/Hybrid Center</p>
-                    <p className="px-5 py-3 text-gray-500 font-medium cursor-pointer">Speaker center</p>
+                    <p className="px-5 py-3 text-gray-500 font-medium cursor-pointer">Speaker Center</p>
                     <p className="px-5 py-3 text-gray-500 font-medium cursor-pointer">Sponsor Center</p>
                 </div>
                 <div className="relative w-[80%] mt-5 pb-28 bg-white rounded-xl border-2">
