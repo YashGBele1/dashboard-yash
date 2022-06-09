@@ -19,7 +19,7 @@ function Main() {
 
             <div className="flex h-full">
                 <div className="mt-5 pb-28 bg-white rounded-xl border-2">
-                    <h1 className="px-5 py-3 text-xl text-gray-500">Event Setting</h1>
+                    <h1 className="px-5 py-3 text-xl text-gray-500">Event Content</h1>
                     <hr />
                     <p className="px-5 py-3 text-gray-500 font-medium cursor-pointer">Basics</p>
                     <p className="px-5 py-3 text-gray-500 font-medium cursor-pointer">Branding</p>
